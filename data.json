@@ -1,42 +1,42 @@
 [
     { 
-        "Title": "Un chien andalou",
-        "Date": "1929",
-        "Director": "Luis Buñuel",
-        "Plot": "Tout commence sur un balcon où un homme aiguise un rasoir. La suite est une série de métamorphoses surréalistes. Un homme sectionne l'oeil d'une jeune fille. Un nuage passe devant la lune. Huit ans après. Un cycliste tombe accidenté dans la rue. La jeune fille lui porte secours et l'embrasse.",
-        "Casting": [ "Luis Buñuel", "Salvador Dalí", "Pierre Batcheff", "Simone Mareuil", "Robert Hommet" ],
-        "Country": "France",
-        "Time": "16mins",
-        "Bg": "../img/chienAndalou_bg.jpg"
+        "title": "Un chien andalou",
+        "date": "1929",
+        "director": "Luis Buñuel",
+        "plot": "Tout commence sur un balcon où un homme aiguise un rasoir. La suite est une série de métamorphoses surréalistes. Un homme sectionne l'oeil d'une jeune fille. Un nuage passe devant la lune. Huit ans après. Un cycliste tombe accidenté dans la rue. La jeune fille lui porte secours et l'embrasse.",
+        "casting": [ "Luis Buñuel", "Salvador Dalí", "Pierre Batcheff", "Simone Mareuil", "Robert Hommet" ],
+        "country": "France",
+        "time": "16mins",
+        "bg": "../img/chienAndalou_bg.jpg"
     },
     {
-        "Title": "Taris, roi de l'eau",
-        "Date": "1931",
-        "Director": "Jean Vigo",
-        "Plot": "Taris, roi de l'eau (ou La Natation par Jean Taris) est un court métrage documentaire français réalisé par Jean Vigo en 1931 sur le champion de natation Jean Taris. Ce film est remarquable pour les innovations techniques utilisées par Vigo, dont des gros plans et des images ralenties sur le corps du nageur.",
-        "Casting": [ "Jean Taris" ],
-        "Country": "France",
-        "Time": "9mins",
-        "Bg": "../img/taris_bg.jpg"
+        "title": "Taris, roi de l'eau",
+        "date": "1931",
+        "director": "Jean Vigo",
+        "plot": "Taris, roi de l'eau (ou La Natation par Jean Taris) est un court métrage documentaire français réalisé par Jean Vigo en 1931 sur le champion de natation Jean Taris. Ce film est remarquable pour les innovations techniques utilisées par Vigo, dont des gros plans et des images ralenties sur le corps du nageur.",
+        "casting": [ "Jean Taris" ],
+        "country": "France",
+        "time": "9mins",
+        "bg": "../img/taris_bg.jpg"
     },
     {
-        "Title": "À nous la liberté",
-        "Date": "1931",
-        "Director": "René Clair",
-        "Plot": "Dans les années trente, Louis est devenu au fil des années un véritable chef d'entreprise, à la tête d'usines et de commerces florissants. Cette vie prospère n'a pourtant pas toujours été son quotidien : ancien détenu, il a réussi à s'évader grâce au sacrifice de son ami Emile. Ce dernier, libéré bien des années après, ne sait pas ce qu'est devenu Louis mais sa rencontre avec une jeune femme travaillant dans une de ses usines va le conduire droit vers son ancien compagnon de cellule pour des retrouvailles bien particulières..",
-        "Casting": [ "Henri Marchand", "Raymond Cordy", "Rolla France", "Paul Ollivier", "Jacques Shelly" ],
-        "Country": "France",
-        "Time": "95mins",
-        "Bg": "../img/aNousLaLiberte_bg.jpg"
+        "title": "À nous la liberté",
+        "date": "1931",
+        "director": "René Clair",
+        "plot": "Dans les années trente, Louis est devenu au fil des années un véritable chef d'entreprise, à la tête d'usines et de commerces florissants. Cette vie prospère n'a pourtant pas toujours été son quotidien : ancien détenu, il a réussi à s'évader grâce au sacrifice de son ami Emile. Ce dernier, libéré bien des années après, ne sait pas ce qu'est devenu Louis mais sa rencontre avec une jeune femme travaillant dans une de ses usines va le conduire droit vers son ancien compagnon de cellule pour des retrouvailles bien particulières..",
+        "casting": [ "Henri Marchand", "Raymond Cordy", "Rolla France", "Paul Ollivier", "Jacques Shelly" ],
+        "country": "France",
+        "time": "95mins",
+        "bg": "../img/aNousLaLiberte_bg.jpg"
     },
     {
-        "Title": "Zéro de conduite",
-        "Date": "1933",
-        "Director": "Jean Vigo",
-        "Plot": "Trois internes se rebellent et organisent une révolte dans un collège de province.",
-        "Casting": [ "Jean Dasté", "Robert le Flon", "Du Verron", "Delphin", "Léon Larive" ],
-        "Country": "France",
-        "Time": "44mins",
-        "Bg": "../img/zeroForConduct_bg.jpg"
+        "title": "Zéro de conduite",
+        "date": "1933",
+        "director": "Jean Vigo",
+        "plot": "Trois internes se rebellent et organisent une révolte dans un collège de province.",
+        "casting": [ "Jean Dasté", "Robert le Flon", "Du Verron", "Delphin", "Léon Larive" ],
+        "country": "France",
+        "time": "44mins",
+        "bg": "../img/zeroForConduct_bg.jpg"
     }
 ]
