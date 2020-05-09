@@ -7,7 +7,7 @@
         "casting": [ "Luis Buñuel", "Salvador Dalí", "Pierre Batcheff", "Simone Mareuil", "Robert Hommet" ],
         "country": "France",
         "time": "16mins",
-        "bg": "../img/chienAndalou_bg.jpg"
+        "bg": "chienAndalou"
     },
     {
         "title": "Taris, roi de l'eau",
@@ -17,7 +17,7 @@
         "casting": [ "Jean Taris" ],
         "country": "France",
         "time": "9mins",
-        "bg": "../img/taris_bg.jpg"
+        "bg": "taris"
     },
     {
         "title": "À nous la liberté",
@@ -27,7 +27,7 @@
         "casting": [ "Henri Marchand", "Raymond Cordy", "Rolla France", "Paul Ollivier", "Jacques Shelly" ],
         "country": "France",
         "time": "95mins",
-        "bg": "../img/aNousLaLiberte_bg.jpg"
+        "bg": "aNousLaLiberte"
     },
     {
         "title": "Zéro de conduite",
@@ -37,6 +37,6 @@
         "casting": [ "Jean Dasté", "Robert le Flon", "Du Verron", "Delphin", "Léon Larive" ],
         "country": "France",
         "time": "44mins",
-        "bg": "../img/zeroForConduct_bg.jpg"
+        "bg": "zeroForConduct"
     }
 ]
