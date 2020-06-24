@@ -68,5 +68,15 @@
         "country": [ "France" ],
         "time": "133mins",
         "bg": "femmeDuBoulanger"
+    },
+    {
+        "title": "La Règle du jeu",
+        "date": "1939",
+        "director": "Jean Renoir",
+        "plot": "Le marquis de la Chesnaye organise une partie de chasse sur son domaine de Sologne. Un pléiade d'invités arrive au château dont André Jurieu, héros national depuis sa traversée de l'Atlantique en vingt-trois heures. Un exploit réalisé pour les beaux yeux de la marquise Christine La Chesnaye, en vain. Dans une société où nobles et domestiques sont soumis à la règle des conventions, Jurieu, par cet amour, bouleverse le jeu.",
+        "casting": [ "Nora Gregor", "Paulette Dubost", "Mila Parély", "Odette Talazac", "Claire Gérard", "Jean Renoir" ],
+        "country": [ "France" ],
+        "time": "106mins",
+        "bg": "regleDuJeu"
     }
 ]
