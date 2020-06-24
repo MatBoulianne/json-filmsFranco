@@ -43,10 +43,20 @@
         "title": "L’Atalante",
         "date": "1934",
         "director": "Jean Vigo",
-        "plot": "Le marinier Jean a épousé Juliette, une fille de paysans de l'Oise. Ils vont vivre a bord de leur péniche L'Atalante des moments de bonheur et des moments de tristesse. L'équipage se compose d'un mousse et du père Jules, inénarrable personnage qui vit au milieu de ses chats. Dernier et unique long métrage de Jean Vigo qui mourut quelques jours après la réalisation du film qu'il ne vit jamais. ",
+        "plot": "Le marinier Jean a épousé Juliette, une fille de paysans de l'Oise. Ils vont vivre a bord de leur péniche L'Atalante des moments de bonheur et des moments de tristesse. L'équipage se compose d'un mousse et du père Jules, inénarrable personnage qui vit au milieu de ses chats. Dernier et unique long métrage de Jean Vigo qui mourut quelques jours après la réalisation du film qu'il ne vit jamais.",
         "casting": [ "Michel Simon", "Dita Parlo", "Jean Dasté", "Gilles Margaritis", "Louis Lefebvre" ],
         "country": [ "France" ],
         "time": "89mins",
         "bg": "atalante"
-    }
+    },
+    {
+        "title": "Pépé le Moko",
+        "date": "1937",
+        "director": "Julien Duvivier",
+        "plot": "Guidé par l'inspecteur Slimane, la police tente désespérément de mettre la main sur Pépé le Moko, un célèbre et dangereux malfaiteur caché quelque part dans la casbah d'Alger. Fuyant une nouvelle fois la police, Pépé rencontre une magnifique jeune femme du nom de Gaby, et en tombe amoureux.",
+        "casting": [ "Jean Gabin", "Mireille Balin", "Gabriel Gabrio", "Lucas Gridoux", "Gilbert Gil" ],
+        "country": [ "France" ],
+        "time": "94mins",
+        "bg": "pepeLeMoko"
+    },
 ]
