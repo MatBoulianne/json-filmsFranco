@@ -58,5 +58,15 @@
         "country": [ "France" ],
         "time": "94mins",
         "bg": "pepeLeMoko"
+    },
+    {
+        "title": "La Femme du boulanger",
+        "date": "1938",
+        "director": "Marcel Pagnol",
+        "plot": "Le boulanger n'aime que faire son pain et regarder sa jolie femme. Le jour ou celle-ci s'enfuit avec un berger des environs, il n'a plus la force de faire son pain. Alors tout le village se mobilise pour retrouver la femme du boulanger.",
+        "casting": [ "Raimu", "Ginette Leclerc", "Charles Moulin", "Fernand Charpin", "Robert Vattier" ],
+        "country": [ "France" ],
+        "time": "133mins",
+        "bg": "femmeDuBoulanger"
     }
 ]
